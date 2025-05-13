@@ -20,8 +20,6 @@ Many movie discovery platforms lack personalized trending features based on actu
 
 This project aimed to solve this problem by creating a responsive movie search application that not only fetches data from an external API but also tracks and analyzes user search patterns to generate a dynamic trending section.
 
-Search functionality, movie details display, and a trending section that accurately reflects user search behavior.
-
 **Technologies Used:** React, Vite, Tailwind CSS, Appwrite, TMDB API
 
 ## 📖 Table of Contents
